@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"farmersMarkets","l":"DatabaseInitializer"},{"p":"farmersMarkets","l":"DatabaseManager"},{"p":"farmersMarkets","l":"FarmersMarkets"},{"p":"farmersMarkets","l":"Market"},{"p":"farmersMarkets","l":"MarketItem"},{"p":"farmersMarkets","l":"Review"}];updateSearchResults();
